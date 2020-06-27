@@ -1,2 +1,2 @@
 # Scripting
-In this scripting repository I have a mosh pit of the main projects that I have worked on; from quantum computing basic exercises to savings calculations I have created a huge project.
+In this scripting repository I have a mosh pit of the main projects that I have worked on; from quantum computing basic exercises to savings calculations I have created a project. Now, I know that is not a standar to mix one thing or the other; yet, from this perspective of having started to document the projects and codes that I have worked on; it is a good begginers habit to start this documentation effort.
